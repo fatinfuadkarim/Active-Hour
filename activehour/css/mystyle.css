@@ -1,0 +1,88 @@
+/*-----carousel-----*/
+
+.carousel-item{
+	height: 500px;
+	background: no-repeat center center scroll;
+}
+.carousel-caption{
+	color: skyblue;
+}
+
+
+/*-----signup/loginform-----*/
+
+#loginform{
+	margin-top: 15px;
+	margin-left: 10px;
+	margin-right: 10px;
+}
+
+/*------footer------*/
+
+footer {
+	bottom: 0;
+	width: 100%;
+	background-color: #2b2b2b;
+	margin-top: 20px;
+	padding: 60px 90px;
+}
+
+footer ul {
+	margin-right: 
+	
+}
+
+footer ul li {
+	display: inline;
+	list-style: none;
+}
+
+footer ul li a {
+	font-family: Arial;
+	font-weight: 400;
+	font-size: 16px;
+	color: #fff;
+}
+
+#mycontact{
+	float: right;
+	color: skyblue;
+	font-size: 22px;
+
+}
+
+.footer-bottom{
+	border-top: 1px solid #b2b2b2;
+	margin-top: 10px;
+	padding-top: 10px;
+	color: #b2b2b2;
+}
+
+table{
+	margin-top: 55px;
+	border-collapse: collapse;
+	width:100%;
+	color: white;
+	font-family: Ariel;
+	font-size: 25px;
+	text-align: center;
+}
+
+th{
+	background-color: lightgrey;
+	color: #340791;
+}
+tr:nth-child(even){
+	background-color: #575951;
+}
+
+tr:nth-child(odd){
+	background-color: #c0f402;
+	color: black;
+}
+
+#flight_form{
+	padding: 40px 40px 40px 600px;
+	margin-top: 100px;
+	background-color: white;
+}
